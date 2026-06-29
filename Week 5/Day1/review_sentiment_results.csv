@@ -1,0 +1,1001 @@
+Review_ID,Customer_Review,Cleaned_Review,Predicted_Sentiment,Confidence_Score
+1,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+2,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+3,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+4,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+5,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+6,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+7,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+8,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+9,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+10,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+11,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+12,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+13,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+14,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+15,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+16,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+17,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+18,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+19,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+20,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+21,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+22,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+23,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+24,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+25,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+26,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+27,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+28,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+29,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+30,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+31,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+32,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+33,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+34,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+35,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+36,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+37,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+38,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+39,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+40,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+41,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+42,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+43,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+44,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+45,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+46,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+47,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+48,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+49,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+50,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+51,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+52,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+53,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+54,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+55,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+56,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+57,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+58,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+59,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+60,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+61,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+62,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+63,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+64,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+65,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+66,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+67,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+68,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+69,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+70,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+71,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+72,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+73,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+74,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+75,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+76,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+77,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+78,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+79,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+80,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+81,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+82,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+83,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+84,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+85,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+86,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+87,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+88,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+89,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+90,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+91,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+92,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+93,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+94,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+95,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+96,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+97,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+98,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+99,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+100,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+101,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+102,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+103,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+104,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+105,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+106,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+107,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+108,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+109,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+110,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+111,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+112,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+113,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+114,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+115,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+116,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+117,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+118,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+119,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+120,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+121,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+122,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+123,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+124,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+125,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+126,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+127,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+128,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+129,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+130,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+131,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+132,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+133,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+134,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+135,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+136,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+137,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+138,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+139,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+140,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+141,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+142,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+143,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+144,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+145,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+146,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+147,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+148,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+149,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+150,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+151,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+152,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+153,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+154,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+155,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+156,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+157,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+158,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+159,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+160,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+161,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+162,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+163,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+164,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+165,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+166,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+167,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+168,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+169,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+170,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+171,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+172,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+173,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+174,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+175,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+176,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+177,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+178,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+179,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+180,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+181,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+182,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+183,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+184,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+185,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+186,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+187,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+188,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+189,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+190,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+191,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+192,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+193,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+194,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+195,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+196,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+197,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+198,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+199,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+200,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+201,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+202,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+203,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+204,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+205,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+206,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+207,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+208,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+209,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+210,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+211,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+212,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+213,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+214,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+215,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+216,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+217,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+218,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+219,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+220,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+221,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+222,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+223,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+224,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+225,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+226,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+227,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+228,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+229,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+230,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+231,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+232,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+233,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+234,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+235,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+236,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+237,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+238,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+239,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+240,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+241,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+242,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+243,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+244,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+245,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+246,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+247,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+248,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+249,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+250,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+251,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+252,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+253,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+254,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+255,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+256,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+257,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+258,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+259,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+260,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+261,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+262,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+263,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+264,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+265,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+266,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+267,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+268,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+269,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+270,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+271,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+272,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+273,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+274,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+275,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+276,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+277,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+278,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+279,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+280,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+281,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+282,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+283,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+284,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+285,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+286,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+287,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+288,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+289,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+290,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+291,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+292,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+293,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+294,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+295,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+296,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+297,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+298,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+299,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+300,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+301,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+302,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+303,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+304,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+305,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+306,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+307,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+308,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+309,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+310,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+311,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+312,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+313,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+314,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+315,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+316,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+317,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+318,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+319,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+320,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+321,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+322,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+323,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+324,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+325,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+326,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+327,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+328,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+329,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+330,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+331,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+332,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+333,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+334,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+335,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+336,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+337,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+338,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+339,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+340,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+341,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+342,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+343,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+344,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+345,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+346,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+347,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+348,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+349,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+350,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+351,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+352,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+353,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+354,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+355,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+356,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+357,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+358,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+359,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+360,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+361,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+362,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+363,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+364,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+365,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+366,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+367,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+368,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+369,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+370,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+371,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+372,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+373,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+374,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+375,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+376,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+377,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+378,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+379,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+380,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+381,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+382,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+383,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+384,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+385,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+386,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+387,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+388,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+389,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+390,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+391,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+392,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+393,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+394,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+395,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+396,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+397,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+398,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+399,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+400,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+401,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+402,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+403,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+404,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+405,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+406,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+407,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+408,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+409,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+410,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+411,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+412,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+413,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+414,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+415,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+416,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+417,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+418,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+419,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+420,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+421,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+422,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+423,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+424,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+425,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+426,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+427,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+428,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+429,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+430,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+431,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+432,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+433,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+434,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+435,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+436,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+437,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+438,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+439,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+440,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+441,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+442,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+443,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+444,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+445,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+446,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+447,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+448,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+449,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+450,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+451,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+452,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+453,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+454,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+455,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+456,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+457,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+458,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+459,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+460,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+461,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+462,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+463,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+464,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+465,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+466,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+467,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+468,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+469,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+470,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+471,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+472,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+473,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+474,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+475,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+476,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+477,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+478,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+479,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+480,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+481,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+482,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+483,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+484,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+485,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+486,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+487,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+488,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+489,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+490,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+491,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+492,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+493,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+494,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+495,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+496,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+497,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+498,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+499,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+500,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+501,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+502,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+503,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+504,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+505,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+506,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+507,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+508,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+509,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+510,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+511,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+512,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+513,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+514,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+515,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+516,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+517,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+518,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+519,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+520,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+521,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+522,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+523,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+524,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+525,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+526,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+527,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+528,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+529,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+530,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+531,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+532,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+533,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+534,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+535,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+536,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+537,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+538,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+539,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+540,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+541,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+542,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+543,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+544,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+545,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+546,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+547,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+548,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+549,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+550,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+551,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+552,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+553,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+554,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+555,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+556,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+557,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+558,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+559,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+560,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+561,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+562,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+563,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+564,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+565,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+566,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+567,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+568,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+569,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+570,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+571,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+572,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+573,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+574,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+575,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+576,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+577,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+578,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+579,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+580,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+581,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+582,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+583,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+584,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+585,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+586,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+587,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+588,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+589,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+590,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+591,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+592,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+593,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+594,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+595,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+596,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+597,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+598,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+599,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+600,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+601,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+602,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+603,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+604,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+605,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+606,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+607,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+608,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+609,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+610,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+611,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+612,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+613,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+614,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+615,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+616,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+617,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+618,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+619,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+620,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+621,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+622,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+623,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+624,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+625,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+626,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+627,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+628,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+629,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+630,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+631,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+632,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+633,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+634,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+635,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+636,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+637,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+638,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+639,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+640,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+641,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+642,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+643,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+644,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+645,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+646,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+647,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+648,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+649,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+650,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+651,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+652,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+653,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+654,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+655,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+656,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+657,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+658,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+659,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+660,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+661,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+662,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+663,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+664,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+665,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+666,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+667,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+668,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+669,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+670,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+671,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+672,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+673,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+674,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+675,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+676,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+677,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+678,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+679,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+680,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+681,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+682,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+683,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+684,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+685,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+686,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+687,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+688,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+689,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+690,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+691,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+692,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+693,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+694,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+695,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+696,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+697,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+698,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+699,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+700,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+701,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+702,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+703,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+704,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+705,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+706,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+707,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+708,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+709,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+710,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+711,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+712,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+713,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+714,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+715,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+716,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+717,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+718,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+719,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+720,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+721,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+722,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+723,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+724,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+725,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+726,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+727,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+728,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+729,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+730,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+731,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+732,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+733,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+734,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+735,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+736,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+737,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+738,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+739,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+740,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+741,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+742,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+743,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+744,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+745,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+746,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+747,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+748,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+749,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+750,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+751,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+752,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+753,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+754,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+755,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+756,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+757,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+758,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+759,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+760,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+761,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+762,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+763,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+764,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+765,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+766,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+767,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+768,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+769,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+770,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+771,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+772,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+773,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+774,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+775,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+776,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+777,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+778,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+779,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+780,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+781,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+782,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+783,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+784,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+785,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+786,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+787,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+788,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+789,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+790,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+791,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+792,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+793,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+794,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+795,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+796,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+797,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+798,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+799,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+800,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+801,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+802,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+803,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+804,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+805,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+806,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+807,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+808,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+809,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+810,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+811,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+812,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+813,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+814,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+815,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+816,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+817,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+818,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+819,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+820,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+821,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+822,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+823,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+824,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+825,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+826,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+827,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+828,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+829,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+830,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+831,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+832,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+833,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+834,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+835,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+836,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+837,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+838,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+839,Loved the design but hated the overall performance.,Loved the design but hated the overall performance.,NEGATIVE,0.9922
+840,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+841,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+842,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+843,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+844,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+845,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+846,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+847,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+848,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+849,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+850,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+851,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+852,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+853,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+854,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+855,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+856,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+857,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+858,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+859,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+860,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+861,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+862,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+863,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+864,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+865,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+866,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+867,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+868,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+869,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+870,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+871,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+872,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+873,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+874,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+875,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+876,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+877,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+878,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+879,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+880,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+881,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+882,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+883,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+884,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+885,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+886,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+887,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+888,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+889,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+890,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+891,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+892,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+893,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+894,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+895,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+896,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+897,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+898,"Amazing features, but the battery life is awful.","Amazing features, but the battery life is awful.",NEUTRAL,0.9848
+899,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+900,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+901,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+902,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+903,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+904,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+905,Fast delivery but the build quality feels weak.,Fast delivery but the build quality feels weak.,NEUTRAL,0.997
+906,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+907,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+908,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+909,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+910,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+911,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+912,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+913,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+914,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+915,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+916,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+917,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+918,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+919,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+920,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+921,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+922,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+923,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+924,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+925,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+926,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+927,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+928,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+929,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+930,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+931,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+932,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+933,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+934,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+935,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+936,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+937,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+938,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+939,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+940,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+941,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+942,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+943,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+944,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+945,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+946,"Excellent design, although the performance was disappointing.","Excellent design, although the performance was disappointing.",POSITIVE,0.9994
+947,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+948,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+949,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+950,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+951,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+952,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+953,"Good value for money, but customer service was terrible.","Good value for money, but customer service was terrible.",NEUTRAL,0.9964
+954,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+955,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+956,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+957,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+958,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+959,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+960,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+961,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+962,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+963,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+964,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+965,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+966,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+967,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+968,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+969,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+970,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+971,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+972,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+973,Really impressed with the build quality and performance.,Really impressed with the build quality and performance.,POSITIVE,0.9999
+974,The product stopped working after a few days.,The product stopped working after a few days.,NEGATIVE,0.9997
+975,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+976,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+977,This purchase was a waste of money.,This purchase was a waste of money.,NEGATIVE,0.9998
+978,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+979,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+980,Great packaging but poor product quality.,Great packaging but poor product quality.,NEUTRAL,0.9905
+981,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+982,Item arrived damaged and customer service was unhelpful.,Item arrived damaged and customer service was unhelpful.,NEGATIVE,0.9997
+983,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+984,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+985,Poor quality materials and unreliable performance.,Poor quality materials and unreliable performance.,NEGATIVE,0.9998
+986,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+987,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+988,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+989,"Nice appearance, however the product stopped working quickly.","Nice appearance, however the product stopped working quickly.",NEGATIVE,0.998
+990,"Amazing value for the price, would definitely buy again.","Amazing value for the price, would definitely buy again.",POSITIVE,0.9998
+991,Completely disappointed with the quality.,Completely disappointed with the quality.,NEGATIVE,0.9998
+992,Excellent quality and arrived earlier than expected.,Excellent quality and arrived earlier than expected.,POSITIVE,0.9997
+993,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+994,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
+995,"Not worth the money, I regret buying it.","Not worth the money, I regret buying it.",NEGATIVE,0.9998
+996,"Very satisfied with this purchase, highly recommended.","Very satisfied with this purchase, highly recommended.",POSITIVE,0.9999
+997,Far below my expectations and not recommended.,Far below my expectations and not recommended.,NEGATIVE,0.9995
+998,Customer support was helpful and resolved my issue quickly.,Customer support was helpful and resolved my issue quickly.,POSITIVE,0.9867
+999,The product performs exactly as described.,The product performs exactly as described.,POSITIVE,0.9988
+1000,Five stars! Everything exceeded my expectations.,Five stars! Everything exceeded my expectations.,POSITIVE,0.9995
